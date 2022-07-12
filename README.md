@@ -1,1 +1,1 @@
-# robot-github-openeuler-assign
+# robot-github-assign
